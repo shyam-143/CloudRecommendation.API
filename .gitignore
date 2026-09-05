@@ -1,0 +1,6 @@
+.vs/ 
+bin/ 
+obj/ 
+cloud-recommendation-ui/node_modules/ 
+cloud-recommendation-ui/.env 
+appsettings.Development.json 
