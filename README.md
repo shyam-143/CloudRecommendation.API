@@ -1,6 +1,6 @@
 # ☁️ Cloud Services Recommendation Engine (GenAI)
 
-An intelligent, full-stack web application that helps businesses select the best-fit cloud services (Compute, Storage, Database) across AWS, Azure, and GCP. The platform collects specific user requirements via an interactive questionnaire and leverages **Azure OpenAI (GPT-4.1)** to generate tailored recommendations, feature comparisons, and monthly cost estimates.
+An intelligent, full-stack web application that helps businesses select the best-fit cloud services (Compute, Storage, Database) across AWS, Azure, and GCP. The platform collects specific user requirements via an interactive questionnaire and leverages **Azure OpenAI (GPT-5.1)** to generate tailored recommendations, feature comparisons, and monthly cost estimates.
 
 ## 🚀 Key Features
 
