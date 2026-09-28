@@ -5,7 +5,7 @@ An intelligent, full-stack web application that helps businesses select the best
 ## 🚀 Key Features
 
 - **Interactive Requirement Gathering:** Form-based input to collect workload, usage, compliance, and technical specs.
-- **GenAI-Powered Recommendations:** Utilizes Azure OpenAI (GPT-4.1) to analyze requirements and generate intelligent, context-aware cloud service recommendations.
+- **GenAI-Powered Recommendations:** Utilizes Azure OpenAI (GPT-5.1) to analyze requirements and generate intelligent, context-aware cloud service recommendations.
 - **Cost & Feature Comparison:** Displays structured monthly cost estimates and feature comparisons in an interactive UI table.
 - **User History & State:** Secure user registration, profile management, and persistent search history.
 - **Enterprise Security:** Secure user data handling with audit logging and Role-Based Access Control (RBAC).
